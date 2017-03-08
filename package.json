@@ -1,0 +1,36 @@
+{
+  "name": "cordova-tabris-nativeaudio",
+  "version": "0.1.0",
+  "description": "Cordova/Tabris.js plugin for low latency aAudio playback, intended for use creaing games.",
+  "cordova": {
+    "id": "cordova-tabris-nativeaudio",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxapps/cordova-plugin-nativeaudio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxapps/cordova-plugin-nativeaudio/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "music",
+    "audio",
+    "game",
+    "mp3",
+    "tabris"
+  ],
+  "author": {
+    "name": "Andrew Trice,Jeff Carver"
+  },
+  "contributors": [{
+    "name": "Jeff Carver",
+    "email": "maxapps@gmail.com"
+  }],
+  "license": "MIT"
+}
